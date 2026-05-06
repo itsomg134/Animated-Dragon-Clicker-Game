@@ -103,7 +103,7 @@ dragon-ember/
 
 | Action | Visual Effect |
 |--------|----------------|
-| Click / Tap | Dragon wing-flap, screen shake, 18 fire particles, floating +🔥 number |
+| Click / Tap | Dragon wing-flap, screen shake, 18 fire particles, floating + number |
 | Buy Upgrade | Golden flash on upgrade panel, floating text |
 | Passive Income | Subtle floating "+X embers" |
 | Idle State | Dragon floats gently, ambient ember particles in background |
