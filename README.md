@@ -7,8 +7,7 @@
 
 🔗 **[Play the Game Live](https://your-username.github.io/dragon-ember)** *(replace with your GitHub Pages URL)*
 
-![Dragon Ember Gameplay](docs/dragon-ember-demo.gif)
-*(Add a GIF or screenshot to your `docs/` folder for extra flair)*
+
 
 ---
 
