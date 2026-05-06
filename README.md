@@ -21,7 +21,7 @@
   - *Inferno Breath* – +5 ember per click.
   - *Gold Hoard* – Passive income (+2 ember/sec).
   - *Ancient Wisdom* – Doubles total click power (multiplicative stacking).
--  **Floating Damage Numbers** – Satisfying +🔥 popups with gradient colors.
+-  **Floating Damage Numbers** – Satisfying + popups with gradient colors.
 -  **Ambient Background Particles** – Subtle embers floating in the lair.
 -  **Reset & Rebirth** – Start fresh anytime with a summoning animation.
 
