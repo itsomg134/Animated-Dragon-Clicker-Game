@@ -1,6 +1,5 @@
-Here is a complete, visually engaging `README.md` file for your animated Dragon Ember game, ready to be added to your GitHub repository.
-```markdown
-# 🐉 Dragon Ember · Animated Dragon Clicker Game
+
+# Animated Dragon Clicker Game
 
 > *“Wings of flame, hoard of gold — click, breathe fire, and watch your dragon legendary grow!”*
 
@@ -13,7 +12,7 @@ Here is a complete, visually engaging `README.md` file for your animated Dragon 
 
 ---
 
-## ✨ Features & Animations
+##  Features & Animations
 
 - 🐲 **Living Dragon** – Idle floating animation + dramatic wing-flap on click.
 - 🔥 **Fire Particle Burst** – Every click spawns 18+ fire embers that fly across the screen.
