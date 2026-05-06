@@ -154,13 +154,19 @@ See the [LICENSE](LICENSE) file for details (or include it in your repo).
 
 ---
 
-## 📬 Contact & Support
+##  Contact
 
-🐉 **Project Repository:** [https://github.com/your-username/dragon-ember](https://github.com/your-username/dragon-ember)  
-🐲 **Report Issues:** [Open an issue](https://github.com/your-username/dragon-ember/issues)  
-💬 **Feedback:** Reach out via GitHub Discussions (if enabled)
+Om Gedam
 
-*May your embers never fade and your dragon's roar echo across the internet!* 🔥🐉✨
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
+
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
+
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
+
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
+
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
 
 ---
 
