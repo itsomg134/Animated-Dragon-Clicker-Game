@@ -13,17 +13,17 @@
 
 ##  Features & Animations
 
-- 🐲 **Living Dragon** – Idle floating animation + dramatic wing-flap on click.
-- 🔥 **Fire Particle Burst** – Every click spawns 18+ fire embers that fly across the screen.
-- 📱 **Screen Shake** – Feel the impact of each fire breath.
-- 💰 **Dynamic Upgrade System** – 4 unique dragon powers:
+-  **Living Dragon** – Idle floating animation + dramatic wing-flap on click.
+-  **Fire Particle Burst** – Every click spawns 18+ fire embers that fly across the screen.
+-  **Screen Shake** – Feel the impact of each fire breath.
+-  **Dynamic Upgrade System** – 4 unique dragon powers:
   - *Sharp Claws* – +1 ember per click.
   - *Inferno Breath* – +5 ember per click.
   - *Gold Hoard* – Passive income (+2 ember/sec).
   - *Ancient Wisdom* – Doubles total click power (multiplicative stacking).
-- 📈 **Floating Damage Numbers** – Satisfying +🔥 popups with gradient colors.
-- 🎨 **Ambient Background Particles** – Subtle embers floating in the lair.
-- 🔁 **Reset & Rebirth** – Start fresh anytime with a summoning animation.
+-  **Floating Damage Numbers** – Satisfying +🔥 popups with gradient colors.
+-  **Ambient Background Particles** – Subtle embers floating in the lair.
+-  **Reset & Rebirth** – Start fresh anytime with a summoning animation.
 
 ---
 
