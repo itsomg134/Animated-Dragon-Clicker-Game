@@ -5,7 +5,8 @@
 
 **Dragon Ember** is an immersive incremental clicker / idle game where you nurture a mighty dragon. Click or tap to unleash fiery breaths, collect embers, and purchase powerful upgrades. Every action is met with **full-screen animations**, **fire particles**, **wing flaps**, and **screen shakes** — bringing your dragon to life like never before!
 
-🔗 **[Play the Game Live](https://your-username.github.io/dragon-ember)** *(replace with your GitHub Pages URL)*
+ **[Play the Game Live](https://your-username.github.io/dragon-ember)** *(replace with your GitHub Pages URL)*
+
 
 
 
