@@ -146,7 +146,7 @@ See the [LICENSE](LICENSE) file for details (or include it in your repo).
 
 ---
 
-## 🙏 Credits
+##  Credits
 
 - **Created by** – [Your Name / GitHub Username]  
 - **Inspiration** – Classic incremental games (Cookie Clicker, Adventure Capitalist)  
@@ -164,32 +164,12 @@ See the [LICENSE](LICENSE) file for details (or include it in your repo).
 
 ---
 
-## 🏆 Changelog
+## Changelog
 
 ### v2.0.0 – Full Animation Update
-- ✨ Added fire particle burst system on click
-- 🕹️ Screen shake effect for better feedback
-- 🐉 Dragon wing-flap animation & idle floating
-- 💎 Ambient background embers
-- 🎨 Enhanced floating damage numbers with gradient colors
-- 🔥 Upgraded UI with glassmorphism and smoother transitions
-
-### v1.0.0 – Initial Release
-- Core clicking mechanics
-- 4 upgrade tiers with multiplicative pricing
-- Passive income loop
-- Responsive design
-
----
-
-## 💡 Future Ideas
-
-- [ ] Dragon skin unlocks (different color dragons)
-- [ ] Achievement system with rewards
-- [ ] Save/load game to localStorage
-- [ ] Sound effects (fire breath, upgrade chime)
-- [ ] Prestige system (rebirth with permanent bonuses)
-
-*Feel free to contribute any of these!*
-
-```
+-  Added fire particle burst system on click
+-  Screen shake effect for better feedback
+-  Dragon wing-flap animation & idle floating
+-  Ambient background embers
+-  Enhanced floating damage numbers with gradient colors
+-  Upgraded UI with glassmorphism and smoother transitions
