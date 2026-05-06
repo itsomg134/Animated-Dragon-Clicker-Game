@@ -27,7 +27,7 @@
 
 ---
 
-## 🎮 How to Play
+##  How to Play
 
 1. **Click / Tap** the dragon avatar or the **BREATH FIRE** button.
 2. Each click generates embers equal to your current **click power**.
@@ -38,7 +38,7 @@
 
 ---
 
-## 🧠 Strategy & Tips
+##  Strategy & Tips
 
 - **Early game** – Prioritize *Sharp Claws* (cheap click boost).
 - **Mid game** – Get *Gold Hoard* early for idle earnings.
@@ -47,7 +47,7 @@
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - **HTML5** – Semantic structure, canvas-free pure DOM.
 - **CSS3** – Keyframe animations, glassmorphism, fire gradients, responsive design.
@@ -57,7 +57,7 @@
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 dragon-ember/
@@ -72,7 +72,7 @@ dragon-ember/
 
 ---
 
-## 🚀 Getting Started Locally
+##  Getting Started Locally
 
 1. **Clone the repository**
    ```bash
@@ -88,7 +88,7 @@ dragon-ember/
 
 ---
 
-## 🌐 Deploy to GitHub Pages
+##  Deploy to GitHub Pages
 
 1. Push your code to a GitHub repository.
 2. Go to **Settings → Pages**.
@@ -99,7 +99,7 @@ dragon-ember/
 
 ---
 
-## 🎥 Animation Showcase
+##  Animation Showcase
 
 | Action | Visual Effect |
 |--------|----------------|
@@ -111,9 +111,8 @@ dragon-ember/
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
-*(Add actual images to your repo and uncomment the lines below)*
 
 <!-- 
 ![Main Game UI](docs/screenshot-main.png)
@@ -128,9 +127,7 @@ dragon-ember/
 
 ---
 
-## 🤝 Contributing
-
-Contributions, ideas, and bug reports are always welcome!
+##  Contributing
 
 1. Fork the repository.
 2. Create your feature branch: `git checkout -b feature/amazing-effect`
@@ -142,7 +139,7 @@ Please keep the game lightweight and preserve the vanilla JS spirit.
 
 ---
 
-## 📝 License
+## License
 
 **MIT License** – Free to use, modify, and distribute for personal or commercial projects.  
 See the [LICENSE](LICENSE) file for details (or include it in your repo).
